@@ -12,4 +12,9 @@ public class AppiumTest {
 	public void IOSApps() {
 		System.out.println("Ios applications");
 	}
+
+	@Test
+	public void AndroidApps() {
+		System.out.println("Android applications");
+	}
 }
